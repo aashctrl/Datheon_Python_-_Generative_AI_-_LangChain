@@ -1,0 +1,9 @@
+ABC Supplies Pvt. Ltd.
+INVOICE
+Invoice Number: INV-1001
+Invoice Date: 20 October 2026
+Description: Office supplies
+Subtotal: INR 1,000.00
+Tax: INR 250.50
+Total Amount Due: INR 1,250.50
+Currency: INR

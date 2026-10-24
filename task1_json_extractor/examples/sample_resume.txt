@@ -1,0 +1,10 @@
+Priya Sharma is a Python developer with two years
+of professional experience.
+
+Email: priya@example.com
+
+Technical skills include Python, SQL, Flask,
+Pandas, NumPy, and Git.
+
+She has worked on data analysis and backend
+development projects.

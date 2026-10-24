@@ -1,0 +1,15 @@
+# Python environments and cache
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Secrets
+.env
+**/.env
+
+# IDE files
+.idea/
+
+# Generated files
+.DS_Store
