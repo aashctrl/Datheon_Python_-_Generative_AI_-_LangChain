@@ -1,0 +1,10 @@
+langchain
+langchain-classic
+langchain-chroma
+langchain-google-genai
+langchain-community
+pypdf
+python-dotenv
+pytest
+reportlab
+langchain-text-splitters

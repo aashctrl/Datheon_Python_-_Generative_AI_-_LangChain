@@ -1,0 +1,16 @@
+PYTHON PROGRAMMING GUIDE
+
+Page Topic: Variables
+Python variables store values. You do not need to declare a variable's type explicitly.
+Example: student_name = "Priya"
+
+Page Topic: Lists
+A Python list stores multiple items in an ordered collection.
+Lists are mutable, meaning their contents can be changed.
+Example: skills = ["Python", "SQL", "Pandas"]
+
+Page Topic: Functions
+Functions are reusable blocks of code defined using the def keyword.
+Functions can accept parameters and return results.
+Example: def add(a, b):
+    return a + b

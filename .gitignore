@@ -13,3 +13,4 @@ __pycache__/
 
 # Generated files
 .DS_Store
+**/chroma_db/
