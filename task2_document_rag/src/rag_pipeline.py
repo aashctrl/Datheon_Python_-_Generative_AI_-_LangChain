@@ -9,7 +9,6 @@ from src.config import CHAT_MODEL, GEMINI_API_KEY, validate_config
 from src.document_loader import load_pdf
 from src.text_splitter import split_documents
 from src.vector_store import build_vector_store, create_embeddings
-from src.vector_store import build_vector_store, create_embeddings
 
 def index_pdf(
     pdf_path: str | Path,

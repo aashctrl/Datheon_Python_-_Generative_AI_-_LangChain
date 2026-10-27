@@ -26,7 +26,7 @@ def main():
 
             print("\nSources:")
             for source in result["sources"]:
-                print(f"- Page {source['page']}")
+                print(f"- {source['source']}, Page {source['page']}")
 
         except Exception as exc:
             print(f"Request failed: {exc}")
